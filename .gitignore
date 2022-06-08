@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.docker_build/
+bin/
+vendor/
+__debug_bin
+main
+
+.services/

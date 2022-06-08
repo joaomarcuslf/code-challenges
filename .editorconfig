@@ -1,0 +1,35 @@
+root = true
+
+[*]
+indent_size = 2
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.ts,js,tsx,jsx,vue]
+indent_style = space
+indent_size = 2
+
+[{Makefile,go.mod,go.sum,*.go,.gitmodules}]
+indent_style = tab
+indent_size = 4
+
+[*.py]
+indent_style = space
+indent_size = 4
+
+[*.rb]
+indent_size = 2
+
+[*.md]
+indent_style = space
+indent_size = 2
+trim_trailing_whitespace = false
+
+[{*.yml,*.yaml,*.json,*.toml,*.xml}]
+indent_size = 2
+insert_final_newline = ignore
+
+[*.sh]
+indent_style = tab
