@@ -1,6 +1,6 @@
 # code-challenges
 
-[![Tests](https://github.com/joaomarcuslf/code-challenges/actions/workflows/test.yml/badge.svg)](https://github.com/joaomarcuslf/code-challenges/actions/workflows/test.yml)
+[![Testing Go files 🔧](https://github.com/joaomarcuslf/code-challenges/actions/workflows/test.yml/badge.svg)](https://github.com/joaomarcuslf/code-challenges/actions/workflows/test.yml)
 
 ## Description
 
