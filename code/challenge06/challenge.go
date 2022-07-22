@@ -9,6 +9,7 @@ func ValidateParenthesesOrderOpt(k string) bool {
 		} else {
 			counter--
 		}
+
 		if counter < 0 {
 			return false
 		}
