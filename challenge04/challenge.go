@@ -22,7 +22,5 @@ func ExtractList(k []int) (int, int) {
 		}
 	}
 
-	unique := len(k) - repeated*2
-
-	return unique, repeated
+	return (len(k) - repeated*2), repeated
 }
