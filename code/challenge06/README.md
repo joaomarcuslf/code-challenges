@@ -8,20 +8,27 @@ Nesse desafio nós vamos trabalhar com pilhas, você receberá como entrada uma 
 
 *Exemplo 01:*
 
-```Entrada: K = "(()())"
+```
+Entrada: K = "(()())"
 Saída:
-true```
+true
+```
+
 *Exemplo 02:*
 
-```Entrada: K = "()()())"
+```
+Entrada: K = "()()())"
 Saída:
-false```
+false
+```
 
 *Exemplo 03:*
 
-```Entrada: K = "()()())("
+```
+Entrada: K = "()()())("
 Saída:
-false```
+false
+```
 
 Se atente, que por mais que o exemplo 03 tenha a mesma quantidade de aberturas e fechamentos, eles não estão corretos.
 
